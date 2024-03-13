@@ -1,6 +1,6 @@
 
 ### Gaspar né 🗡️
-[![Blog](https://img.shields.io/website?label=Gaspar&style=for-the-badge&url=https://google.com/)]()
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaspatt&show_icons=true&theme=radical)
 

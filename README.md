@@ -7,7 +7,7 @@ Trabalho com PHP, JavaScript e React, com bancos SQL Server, PostgreSQL e Oracle
 ## Projetos
 
 - [Portfolio](https://gaspatt.github.io/portfolio/) — site de portfólio pessoal (HTML, CSS, JS)
-- [Pizzaria Santory](https://github.com/Gaspatt/Santory_Pizzaria) — e-commerce TCC (Vue.js, Python, Django REST)
+- [Pizzaria Santory](https://github.com/Santory-Pizzaria) — e-commerce TCC (Vue.js, Python, Django REST)
 
 ## Stack
 
